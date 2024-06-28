@@ -11,10 +11,6 @@ Open a terminal and navigate to the folder where you saved the script.
 
 Run the script:
 
-bash
-
-Copy code
-
 python convert_csv_to_sql_with_tables.py
 
 Import into phpMyAdmin:
