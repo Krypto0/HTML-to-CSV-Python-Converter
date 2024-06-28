@@ -3,7 +3,7 @@ Convert HTML Databases with python, yo can convert .csv to .sql archives too, ju
 
 <h2>Instructions for running the script:</h2>
 
-Make sure the CSV file all_prospects.csv is in the specified location (D:\Downloads).
+Make sure the CSV file name_of_your_file.csv is in the specified location (C:\Downloads).
 
 Save the convert_csv_to_sql_with_tables.py script in a folder of your choice.
 
@@ -21,4 +21,4 @@ Select the database where you want to import the table.
 
 Go to the "Import" tab.
 
-Select the SQL file all_prospects.sql and run it.
+Select the SQL file name_of_your_file.sql and run it.
